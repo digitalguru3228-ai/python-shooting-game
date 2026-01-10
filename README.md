@@ -103,7 +103,8 @@ Space Bar → Shoot
 
 R → Restart game after Game Over
 
-📸 Screenshots
+📸 Screenshots : ![Gameplay](screenshots/gameplay.png)
+
 
 🚀 Future Enhancements
 
